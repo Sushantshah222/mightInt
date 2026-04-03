@@ -46,7 +46,7 @@ const MaintenancePage = () => {
         
         <p className="text-slate-600 text-lg md:text-xl leading-relaxed mb-8">
           We are currently performing scheduled updates to improve your experience. 
-          We appreciate your patience and will be back online shortly.
+          We appreciate your patience and will be back online shortly. Changed sucessfully.
         </p>
 
         {/* Expected Uptime Box */}
